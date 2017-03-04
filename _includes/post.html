@@ -3,33 +3,42 @@
 	<div class="entry-content">
 
 	  <header>
-	    <h1 class="entry-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-	    <p class="entry-meta">
-		    {{ page.date | date: "%b %-d, %Y" }}
-		    {% if page.category %} • Category: {{ page.category|capitalize }}{% endif %}
-	    </p>
+	    <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	    <p class="entry-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.category %} • Category: {{ page.category|capitalize }}{% endif %}</p>
 	  </header>
 
 	  <article class="entry-body">
-	  	{% if content %}
-	  		{{ content }}
-  		{% else %}
+	  	{% if index %}
 	  		{{ page.excerpt }}
 	  		{% if page.content contains '<!-- more -->' %}
-	  		<p><a href="{{ page.url | prepend: site.baseurl }}">Read more »</a></p>
+	  		<p><a href="{{ page.url }}">Read more »</a></p>
 	  		{% endif %}
+  		{% else %}
+	  		{{ content }}
   		{% endif %}
 	  </article>
 
   </div>
 
+{% if index != true and content and page.related %}
+<div class="related-posts">
+	<h2>Related Posts</h2>
+	<ul>
+	{% for post in site.posts %}
+		{% if page.related contains post.title %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+	</ul>
 </div>
-{% if content and page.author_footer != false %}
+{% endif %}
 
-	{% include post_footer.html %}
+</div>
 
-	{% if page.comments != false %}
-	    {% include disqus.html %}
-	{% endif %}
+{% if index != true and content and page.author_footer != false %}
+
+{% if index != true and page.comments != false %}
+    {% include disqus.html %}
+{% endif %}
 
 {% endif %}
