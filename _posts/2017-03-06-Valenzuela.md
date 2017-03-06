@@ -6,7 +6,7 @@ category: Journal Article
 
 **Highlights** taken directly from paper website:
 
-> + We analyze the link between Social Network Sites(SNS) use, marriage well-being and divorce in the U.S.
+> + We analyze the link between SNS use, marriage well-being and divorce in the U.S.
 > + At the state-level, Facebook penetration is associated with increasing divorce rates.
 > + At the individual-level, SNS use is negatively correlated with marriage quality.
 > + Our results can be explained from either a causal or a self-selection perspective.
