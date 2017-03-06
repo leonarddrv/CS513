@@ -10,6 +10,7 @@ category: Journal Article
 > + At the state-level, Facebook penetration is associated with increasing divorce rates.
 > + At the individual-level, SNS use is negatively correlated with marriage quality.
 > + Our results can be explained from either a causal or a self-selection perspective.
+<!-- more -->
 
 This paper can be an **important resource** for our term paper. It gives a comprehensive analysis on effect of the social network sites on both marriage quality and divorce rates. Analyze includes evaluation in both state and individual level across the USA.
 
