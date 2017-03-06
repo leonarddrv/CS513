@@ -12,6 +12,6 @@ category: Journal Article
 > + Our results can be explained from either a causal or a self-selection perspective.
 <!-- more -->
 
-This paper can be an **important resource** for our term paper. It gives a comprehensive analysis on effect of the social network sites on both marriage quality and divorce rates. Analyze includes evaluation in both state and individual level across the USA.
+This paper can be an **important resource** for our term paper. It gives a comprehensive analysis on effect of the social network sites on both marriage quality and divorce rates. Analysis includes evaluation in both state and individual level across the USA.
 
 The full article can be accessed [from here](http://www.sciencedirect.com/science/article/pii/S0747563214001563).
