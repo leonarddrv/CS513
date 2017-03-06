@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example Post With Video Embedded"
-category: test
+category: Journal Article
 ---
 
 This is an example post. Please remove it and add your own content.
