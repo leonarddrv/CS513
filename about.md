@@ -5,8 +5,9 @@ permalink: /about/
 comments: false
 author_footer: false
 ---
+This website is for maintaining a portfolio for CS 513 project which is done by **Hasan Balcı** and **Ilkin Safarli**.
 
-The purpose of this project is to study the impact of the internet  on marriage and  family relationships.
+The purpose of the project is to study the impact of the internet  on marriage and  family relationships.
 More specially, we will focus on the use of social networks such as  Facebook, Twitter and Tinder. 
 We will explore the  correlation between the usage of these social media mediums and marial status of couples.
 This will include the marriages done through social media and the usage of social media throughout the marriages. 
