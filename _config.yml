@@ -4,7 +4,7 @@ title: Impact of Social Media on Romantic Relationships
 #author_avatar: https://gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=50
 email: alias@domain.tld
 description: Blog about whatever.
-baseurl: "" # optional
+baseurl: "https://leonarddrv.github.io/CS513/" # optional
 url: "https://leonarddrv.github.io/CS513/"
 #twitter_username: foo_bar
 #github_username: foo_bar
