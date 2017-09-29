@@ -1,4 +1,4 @@
-CS 513 - Implications of The Internet
+CS 578 - Natural Language Processing
 =============
 
-Blog for CS 513 research project.
+Blog for CS 578 research project.
