@@ -50,6 +50,7 @@ em {
     font-size: 25px;
     line-height: normal;
     vertical-align: middle;
+    text-align: center;
 }
 #site-title a {
     color: black;
@@ -70,6 +71,7 @@ em {
     line-height: normal;
     color: #777;
     padding-left: 1px;
+    text-align: center;
 }
 .links a {
     text-decoration: none;
