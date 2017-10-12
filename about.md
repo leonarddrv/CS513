@@ -5,11 +5,8 @@ permalink: /about/
 comments: false
 author_footer: false
 ---
-This website is for maintaining a portfolio for CS 513 project which is done by **Hasan Balcı** and **Ilkin Safarli**.
+This website is for maintaining a portfolio for CS 578 project which is done by **Hasan Balcı** and **Leonard Dervishi**.
 
-The purpose of the project is to study the impact of the internet  on marriage and  family relationships.
-More specially, we will focus on the use of social networks such as  Facebook, Twitter and Tinder. 
-We will explore the  correlation between the usage of these social media mediums and marial status of couples.
-This will include the marriages done through social media and the usage of social media throughout the marriages. 
-Initially we will present results only about the USA. 
-Provided that we have access to the relevant data, we may evaluate Turkey as well.
+This project aims a deep analysis of the ICIJ Offshore Leaks Database that consists of three massive offshore leaks (2013-Offshore Leaks, 2016-Panama Papers and 2016-Bahama Leaks) to infer relationships among people, companies and countries. 
+For this purpose, we will apply known clustering and graph algorithms together with the specified queries on the Neo4j graph database where the data is represented. 
+We may need to implement extensions of these algorithms to Neo4j graph database in order to apply them for the detailed analysis.
