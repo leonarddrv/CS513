@@ -17,6 +17,6 @@ markdown: kramdown
 permalink: pretty
 excerpt_separator: "<!-- more -->"
 variables:
-        page.author_footer: false
+        page.author_footer: true
 gems:
   - jekyll-sitemap
