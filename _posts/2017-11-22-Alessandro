@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Mining and Searching Text with Graph Databases"
+category: Article
+---
+
+[This article](https://graphaware.com/neo4j/2016/07/07/mining-and-searching-text-with-graph-databases.html) talks about how
+(NLP) techniques provide the basis for harnessing this huge amount of data and converting it into a useful source of 
+knowledge for further processing.
+
